@@ -127,9 +127,9 @@ The application is structured for easy integration with MockAPI or any RESTful A
 
 ## 👨‍💻 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile]
+**Joshua Castillo**
+- GitHub: https://github.com/jostillo91
+- LinkedIn: https://www.linkedin.com/in/joshua-castillo-development
 
 ## 📄 License
 
